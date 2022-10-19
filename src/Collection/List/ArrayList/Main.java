@@ -11,8 +11,16 @@ public class Main {
             x = x*i ;
             array.add(x);
         }
-        System.out.println(array);
-        System.out.println(array.get(0)+" "+array.get(5));
-        System.out.println(array.size());
+//        System.out.println(array);
+//        System.out.println(array.get(0)+" "+array.get(5));
+//        System.out.println(array.size());
+
+        for (int i = 0; i< array.size(); i++){
+            System.out.print(array.get(i)+" ");
+        }
+        System.out.println();
+        for (Integer z: array){
+            System.out.print(z+" ");
     }
-}
+
+}}
