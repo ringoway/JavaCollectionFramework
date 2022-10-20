@@ -1,0 +1,14 @@
+1. ArrayList
+2. LinkedList
+3. HashMap
+4. LinkedHashMap
+5. TreeMap
+6. Set
+7. Methods hashcode() + equals()
+8. Contract hashcode() + equals()
+9. Interface Comparator
+10. Interface Comparable
+11. Queue
+12. Stack
+13. Interface Iterable
+14. Other in Java Collection Framework
