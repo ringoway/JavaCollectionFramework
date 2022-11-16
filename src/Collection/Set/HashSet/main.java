@@ -1,4 +1,4 @@
-package Collection.Set;
+package Collection.Set.HashSet;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
@@ -30,14 +30,6 @@ public class main {
         for(int i: myTreeSet){System.out.print(i+" ");}
         System.out.println();
 
-        LinkedHashSet<String> myLinkedHashSet = new LinkedHashSet<>();
 
-        myLinkedHashSet.add("Hello");
-        myLinkedHashSet.add("my");
-        myLinkedHashSet.add("name");
-        myLinkedHashSet.add("is");
-        myLinkedHashSet.add("Egor");
-
-        for(String i: myLinkedHashSet){System.out.print(i+" ");}
     }
 }
